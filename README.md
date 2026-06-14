@@ -16,7 +16,6 @@ Check out my portfolio👇
 ### 👩‍💻 **About Me**  
 
 - 🎓 **Computer Science Student** at **MOHAMED SATHAK ENGINEERING COLLEGE, kilakarai** | Graduating **Summer 2027**  
-- 💼 **Backend Developer** at **rollora.in**
 - 💻 **Ex full stack java Developer Intern** at **mainflow**, working with **TypeScript, Express.js, PostgreSQL, Prisma**.  
 - 🌱 **Currently Learning:** **AWS** to get solutions architect associate certification, practicing data structures and algorithms.  
 - 🚀 Passionate about **API development, database optimization, and scalable system design**.  
