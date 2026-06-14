@@ -1,5 +1,4 @@
-<h1 align="center">👨🏻‍💻 MD SHAKIL AKHTAR</h1>
-
+<h1 align="center">💻 MD SHAKIL AKHTAR</h1>
 <h3 align="center">
 Java Full Stack Developer | CSE Student | 2027 Graduate
 </h3>
