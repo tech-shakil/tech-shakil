@@ -65,7 +65,9 @@ A cloud-based multi-tenant Hospital Management SaaS platform that enables multip
 
 ✅ Patient Registration & Management
 
-✅ Doctor & Staff Management
+✅ Doctor Management
+
+✅ Staff Management
 
 ✅ Appointment Scheduling
 
@@ -133,23 +135,11 @@ A cloud-based multi-tenant Hospital Management SaaS platform that enables multip
 # 📊 GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tech-shakil&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&rank_icon=github" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tech-shakil&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img height="180em" src="https://streak-stats.demolab.com?user=tech-shakil&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tech-shakil&layout=compact&theme=tokyonight&langs_count=8" />
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tech-shakil&theme=tokyo-night" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tech-shakil&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
