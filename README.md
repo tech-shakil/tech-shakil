@@ -1,15 +1,19 @@
-<h1 align="center">MD SHAKIL AKHTAR</h1>
+<h1 align="center">👨🏻‍💻 MD SHAKIL AKHTAR</h1>
 
 <h3 align="center">
-Java Full Stack Developer | Computer Science Engineer | 2027 Graduate
+Java Full Stack Developer | CSE Student | 2027 Graduate
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3500&center=true&vCenter=true&width=700&lines=Java+Full+Stack+Developer;Spring+Boot+Developer;Backend+Engineer;Problem+Solver" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3500&center=true&vCenter=true&width=700&lines=Java+Full+Stack+Developer;Spring+Boot+Developer;Backend+Engineer;Problem+Solver;Building+ArogyaNext+SaaS" />
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=tech-shakil&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+</p>
+
+<p align="center">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3h0cWNlcnhlb2diMGI4OHE3anllYmU2djdwa3ZhcWpsYWtrYnk4NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DI768v3mPZzjMexZ1v/giphy.gif" width="700"/>
 </p>
 
 ---
@@ -22,7 +26,7 @@ Java Full Stack Developer | Computer Science Engineer | 2027 Graduate
 
 💻 Aspiring Java Full Stack Developer
 
-🌱 Currently Learning
+🌱 Currently Learning:
 
 - Java
 - Spring Boot
@@ -31,13 +35,13 @@ Java Full Stack Developer | Computer Science Engineer | 2027 Graduate
 - Data Structures & Algorithms
 - System Design
 
-🚀 Interested In
+🚀 Interested In:
 
 - Backend Development
 - REST APIs
 - Microservices
 - Cloud Computing
-- Software Architecture
+- System Design
 
 ---
 
@@ -52,14 +56,14 @@ A cloud-based multi-tenant Hospital Management SaaS platform that enables multip
 - Java
 - Spring Boot
 - Spring Security
-- JWT Authentication
-- Hibernate
 - Spring Data JPA
+- Hibernate
+- JWT Authentication
 - React
 - MySQL
 - Docker
 
-### Key Features
+### Features
 
 ✅ Multi-Tenant Architecture
 
@@ -67,19 +71,15 @@ A cloud-based multi-tenant Hospital Management SaaS platform that enables multip
 
 ✅ Doctor Management
 
-✅ Staff Management
-
 ✅ Appointment Scheduling
 
 ✅ Electronic Medical Records (EMR)
 
 ✅ Billing & Invoice Management
 
+✅ Role-Based Authentication
+
 ✅ Hospital Analytics Dashboard
-
-✅ JWT Authentication
-
-✅ Role-Based Access Control (RBAC)
 
 ✅ RESTful APIs
 
@@ -91,7 +91,7 @@ A cloud-based multi-tenant Hospital Management SaaS platform that enables multip
 
 🏥 Building ArogyaNext – Multi-Tenant Hospital Management SaaS Platform
 
-💻 Java Full Stack Development Enthusiast
+💻 Java Full Stack Developer
 
 🎓 Computer Science Engineering Student (2027)
 
@@ -133,10 +133,6 @@ A cloud-based multi-tenant Hospital Management SaaS platform that enables multip
 ---
 
 # 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tech-shakil&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tech-shakil&layout=compact&theme=tokyonight&hide_border=true" />
