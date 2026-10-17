@@ -6,15 +6,15 @@
 
 <p align="center">
   <a href="https://arogyanext.in">
-    <img src="https://img.shields.io/badge/🚀_ArogyaNext-Live_Website-0A7B83?style=for-the-badge" alt="ArogyaNext"/>
+    <img src="https://img.shields.io/badge/ArogyaNext-Live_Website-0A7B83?style=for-the-badge&logo=googlechrome&logoColor=white" alt="ArogyaNext Live Website"/>
   </a>
   <a href="https://github.com/tech-shakil">
-    <img src="https://img.shields.io/badge/GitHub-View_Projects-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-View_Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Projects"/>
   </a>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Poppins&size=26&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=Java+Full+Stack+Developer;Spring+Boot+Developer;Backend+Engineering+Enthusiast;Building+Real-World+Projects;Creator+of+ArogyaNext;Learning+%7C+Building+%7C+Innovating" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Poppins&size=25&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=Java+Full+Stack+Developer;Spring+Boot+Developer;Backend+Engineering+Enthusiast;Building+Real-World+Projects;Creator+of+ArogyaNext;Learning+%7C+Building+%7C+Innovating" alt="Typing SVG"/>
 </p>
 
 <p align="center">
@@ -27,11 +27,11 @@
 
 Hi! I'm **MD Shakil Akhtar**, a Computer Science and Engineering student passionate about software development, backend engineering, and building technology that solves real-world problems.
 
-I'm currently pursuing my B.E. in Computer Science and Engineering at Mohamed Sathak Engineering College, with an expected graduation year of 2027.
+I'm pursuing my B.E. in Computer Science and Engineering at Mohamed Sathak Engineering College, with an expected graduation year of 2027.
 
-I enjoy transforming ideas into working applications, developing backend systems, exploring new technologies, and designing solutions that combine functionality with usability.
+I enjoy transforming ideas into working applications, exploring new technologies, and building solutions that combine functionality, usability, and practical value.
 
-- 🎓 **Education:** B.E. Computer Science and Engineering
+- 🎓 **Degree:** B.E. Computer Science and Engineering
 - 🏫 **College:** Mohamed Sathak Engineering College
 - 📅 **Expected Graduation:** 2027
 - 💻 **Primary Language:** Java
@@ -39,7 +39,7 @@ I enjoy transforming ideas into working applications, developing backend systems
 - 🌐 **Live Product:** [ArogyaNext](https://arogyanext.in)
 - 🏆 **Achievements:** First Prize in UI/UX Design and Second Prize in Dream to Reality
 - 🌱 **Currently Learning:** Data Structures and Algorithms, System Design, Cloud Computing, and Full Stack Development
-- 🎯 **Career Goal:** Become a skilled software engineer and build reliable, secure, and scalable applications.
+- 🎯 **Career Goal:** Build reliable, secure, and scalable software applications.
 
 ---
 
@@ -89,14 +89,63 @@ ArogyaNext explores how AI and digital technologies can help streamline pre-cons
 - **Firebase:** Backend and database services.
 - **Web Technologies:** User interface and application development.
 
-*The technologies and features listed above should be understood as the project's development scope. Their availability in the live deployment may vary.*
+*The technologies and features listed above should reflect the actual implementation. Some features may be under development or unavailable in the current live deployment.*
 
 ### 🌐 Explore ArogyaNext
 
 - **Live Website:** https://arogyanext.in
-- **GitHub Profile:** https://github.com/tech-shakil
+- **Source Code:** Private repository
+- **Developer Profile:** https://github.com/tech-shakil
 
-ArogyaNext reflects my interest in combining software engineering, AI, and practical problem-solving to address challenges in healthcare.
+The ArogyaNext source code is intentionally private. The live website remains publicly accessible.
+
+---
+
+## 💻 Other Projects
+
+### 🛒 ZZomat Web
+
+A web application repository associated with the ZZomat project.
+
+[Explore Repository](https://github.com/tech-shakil/zzomat-web)
+
+### 🛒 ZZomat Client
+
+A client-side repository associated with the ZZomat project.
+
+[Explore Repository](https://github.com/tech-shakil/zzomat-client)
+
+### 🔧 FixNow
+
+A project exploring an on-demand services platform.
+
+[Explore Repository](https://github.com/tech-shakil/fixnow)
+
+### ⚙️ FixNow Backend
+
+A backend repository associated with the FixNow project.
+
+[Explore Repository](https://github.com/tech-shakil/fixnow-backend)
+
+### 📈 MSEC Smart Stock
+
+A stock-related project developed in PHP.
+
+[Explore Repository](https://github.com/tech-shakil/msec-smart-stock)
+
+### ☕ Java DSA
+
+A repository for practicing Java programming and strengthening data structures and algorithms.
+
+[Explore Repository](https://github.com/tech-shakil/JAVA-DSA)
+
+### 📱 ArogyaNext Patient App
+
+An Android application repository associated with ArogyaNext.
+
+[Explore Repository](https://github.com/tech-shakil/Arogyanext-Patient-App)
+
+*Some repositories are private. Only public repositories and their accessible contents can be viewed by visitors.*
 
 ---
 
@@ -116,7 +165,6 @@ ArogyaNext reflects my interest in combining software engineering, AI, and pract
 
 - Secured Second Prize in the Dream to Reality idea competition.
 - Organized by the Entrepreneurship Development Cell (EDC).
-- Recognized through participation in an innovation-focused competition.
 - Awarded on 15 October 2026.
 
 ### 💡 Innovation & Entrepreneurship
@@ -132,6 +180,7 @@ Interested in developing practical technology solutions, exploring entrepreneuri
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
 </p>
@@ -193,20 +242,19 @@ Interested in developing practical technology solutions, exploring entrepreneuri
 <p align="center">
   <img
     src="https://github-readme-stats.vercel.app/api?username=tech-shakil&show_icons=true&rank_icon=github&theme=tokyonight&hide_border=true&include_all_commits=true"
-    alt="MD Shakil Akhtar's GitHub Statistics"
+    alt="GitHub Statistics"
     height="180"
   />
-
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=tech-shakil&layout=compact&theme=tokyonight&hide_border=true"
-    alt="Most Used Programming Languages"
+    alt="Most Used Languages"
     height="180"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=tech-shakil&theme=tokyonight&hide_border=true"
+    src="https://streak-stats.demolab.com/?user=tech-shakil&theme=tokyonight&hide_border=true"
     alt="GitHub Contribution Streak"
   />
 </p>
@@ -214,15 +262,15 @@ Interested in developing practical technology solutions, exploring entrepreneuri
 <p align="center">
   <img
     src="https://github-readme-activity-graph.vercel.app/graph?username=tech-shakil&theme=tokyo-night&hide_border=true"
-    alt="GitHub Contribution Activity Graph"
+    alt="GitHub Contribution Activity"
   />
 </p>
 
 <p align="center">
   <a href="https://github.com/tech-shakil?tab=repositories">
     <img
-      src="https://img.shields.io/badge/View_All_Repositories-181717?style=for-the-badge&logo=github&logoColor=white"
-      alt="View All Repositories"
+      src="https://img.shields.io/badge/Explore_My_Repositories-181717?style=for-the-badge&logo=github&logoColor=white"
+      alt="Explore My Repositories"
     />
   </a>
 </p>
