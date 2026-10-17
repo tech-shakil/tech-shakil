@@ -28,13 +28,11 @@
     src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=700&color=0E75B6&center=true&vCenter=true&width=700&lines=Java+Full+Stack+Developer;Spring+Boot+Developer;Backend+Engineering+Enthusiast;Problem+Solver;Building+ArogyaNext"
     alt="Animated typing banner"
   />
-</p>
 
-<!-- PROFILE VIEWS -->
 
 <p align="center">
   <img
-    src="https://komarev.com/ghpvc/?username=tech-shakil&label=Profile%20Views&color=0e75b6&style=flat"
+    src="https://views-counter.vercel.app/badge?pageId=tech-shakil%2Ftech-shakil&leftColor=gray&rightColor=blue&label=Profile%20Views"
     alt="Profile Views"
   />
 </p>
