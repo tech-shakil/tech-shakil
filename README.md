@@ -29,7 +29,7 @@ Hi! I'm **MD Shakil Akhtar**, a Computer Science and Engineering student passion
 
 I'm pursuing my B.E. in Computer Science and Engineering at Mohamed Sathak Engineering College, with an expected graduation year of 2027.
 
-I enjoy transforming ideas into working applications, exploring new technologies, and building solutions that combine functionality, usability, and practical value.
+I enjoy transforming ideas into working applications, exploring new technologies, and developing solutions that combine functionality, usability, and practical value.
 
 - 🎓 **Degree:** B.E. Computer Science and Engineering
 - 🏫 **College:** Mohamed Sathak Engineering College
@@ -89,7 +89,7 @@ ArogyaNext explores how AI and digital technologies can help streamline pre-cons
 - **Firebase:** Backend and database services.
 - **Web Technologies:** User interface and application development.
 
-*The technologies and features listed above should reflect the actual implementation. Some features may be under development or unavailable in the current live deployment.*
+*Keep this technology list aligned with your actual implementation. Not every concept listed above is necessarily available in the current live deployment.*
 
 ### 🌐 Explore ArogyaNext
 
@@ -129,7 +129,7 @@ A backend repository associated with the FixNow project.
 
 ### 📈 MSEC Smart Stock
 
-A stock-related project developed in PHP.
+A PHP-based stock-related project.
 
 [Explore Repository](https://github.com/tech-shakil/msec-smart-stock)
 
@@ -145,7 +145,7 @@ An Android application repository associated with ArogyaNext.
 
 [Explore Repository](https://github.com/tech-shakil/Arogyanext-Patient-App)
 
-*Some repositories are private. Only public repositories and their accessible contents can be viewed by visitors.*
+*Some repositories are private. Visitors can access only public repositories and their accessible contents.*
 
 ---
 
@@ -241,13 +241,16 @@ Interested in developing practical technology solutions, exploring entrepreneuri
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=tech-shakil&show_icons=true&rank_icon=github&theme=tokyonight&hide_border=true&include_all_commits=true"
+    src="https://github-readme-stats.vercel.app/api?username=tech-shakil&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
     alt="GitHub Statistics"
     height="180"
   />
+</p>
+
+<p align="center">
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=tech-shakil&layout=compact&theme=tokyonight&hide_border=true"
-    alt="Most Used Languages"
+    alt="Most Used Programming Languages"
     height="180"
   />
 </p>
@@ -256,13 +259,6 @@ Interested in developing practical technology solutions, exploring entrepreneuri
   <img
     src="https://streak-stats.demolab.com/?user=tech-shakil&theme=tokyonight&hide_border=true"
     alt="GitHub Contribution Streak"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=tech-shakil&theme=tokyo-night&hide_border=true"
-    alt="GitHub Contribution Activity"
   />
 </p>
 
