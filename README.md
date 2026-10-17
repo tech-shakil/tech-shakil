@@ -6,10 +6,10 @@
 
 <p align="center">
   <a href="https://arogyanext.in">
-    <img src="https://img.shields.io/badge/ArogyaNext-Live_Website-0A7B83?style=for-the-badge&logo=googlechrome&logoColor=white" alt="ArogyaNext Live Website"/>
+    <img src="https://img.shields.io/badge/AROGYANEXT-LIVE_WEBSITE-0A7B83?style=for-the-badge&logo=googlechrome&logoColor=white" alt="ArogyaNext Live Website"/>
   </a>
   <a href="https://github.com/tech-shakil">
-    <img src="https://img.shields.io/badge/GitHub-View_Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Projects"/>
+    <img src="https://img.shields.io/badge/GITHUB-VIEW_PROJECTS-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Projects"/>
   </a>
 </p>
 
@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tech-shakil&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=tech-shakil&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
 </p>
 
 ---
@@ -38,6 +38,7 @@ I enjoy transforming ideas into working applications, exploring new technologies
 - ⚙️ **Backend Focus:** Spring Boot, REST APIs, Spring Security
 - 🌐 **Live Product:** [ArogyaNext](https://arogyanext.in)
 - 🏆 **Achievements:** First Prize in UI/UX Design and Second Prize in Dream to Reality
+- 🛠️ **Development Tools:** VS Code, Antigravity IDE, Git, GitHub
 - 🌱 **Currently Learning:** Data Structures and Algorithms, System Design, Cloud Computing, and Full Stack Development
 - 🎯 **Career Goal:** Build reliable, secure, and scalable software applications.
 
@@ -47,7 +48,7 @@ I enjoy transforming ideas into working applications, exploring new technologies
 
 # 🏥 ArogyaNext
 
-### Healthcare Technology | AI-Assisted Patient Case-Taking | OPD Workflows
+### AI-Assisted Healthcare | Patient Case-Taking | OPD Workflows
 
 <p align="center">
   <a href="https://arogyanext.in">
@@ -59,7 +60,7 @@ I enjoy transforming ideas into working applications, exploring new technologies
 
 The project explores how conversational AI, multilingual communication, and digital workflow management can help organize healthcare interactions and improve the patient experience.
 
-### 🎯 The Problem
+### 🎯 Problem Statement
 
 Healthcare facilities can face challenges such as:
 
@@ -69,35 +70,35 @@ Healthcare facilities can face challenges such as:
 - Manual outpatient workflow management.
 - Difficulty organizing information before consultations.
 
-### 💡 Our Approach
+### 💡 Proposed Solution
 
 ArogyaNext explores how AI and digital technologies can help streamline pre-consultation workflows and make patient interactions more accessible.
 
-### ✨ Key Project Concepts
+### ✨ Key Features and Concepts
 
 - 🗣️ **Multilingual Interaction:** Supporting communication in patients' preferred languages.
 - 🤖 **AI-Assisted Case-Taking:** Structuring patient responses into an organized clinical history.
 - 🏥 **OPD Workflow Support:** Exploring digital solutions for outpatient coordination.
 - 📋 **Structured Information:** Organizing relevant patient information for healthcare professionals.
-- 🔊 **Voice-Based Interaction:** Using speech technologies to make patient interaction more accessible.
+- 🔊 **Voice-Based Interaction:** Using speech technologies to improve accessibility.
 - ⏱️ **Queue Management:** Exploring better visibility into patient queues and consultation workflows.
 
-### 🛠️ Technologies Explored
+### 🛠️ Technologies
 
 - **Google Gemini:** Large Language Model capabilities.
 - **Sarvam AI:** Indian-language speech technologies.
 - **Firebase:** Backend and database services.
 - **Web Technologies:** User interface and application development.
 
-*Keep this technology list aligned with your actual implementation. Not every concept listed above is necessarily available in the current live deployment.*
+*The technologies and features listed should reflect the actual implementation and deployed functionality.*
 
-### 🌐 Explore ArogyaNext
+### 🌐 Project Links
 
-- **Live Website:** https://arogyanext.in
+- **Live Website:** [arogyanext.in](https://arogyanext.in)
+- **GitHub Profile:** [tech-shakil](https://github.com/tech-shakil)
 - **Source Code:** Private repository
-- **Developer Profile:** https://github.com/tech-shakil
 
-The ArogyaNext source code is intentionally private. The live website remains publicly accessible.
+The source code is intentionally private, while the live website is publicly accessible.
 
 ---
 
@@ -107,45 +108,51 @@ The ArogyaNext source code is intentionally private. The live website remains pu
 
 A web application repository associated with the ZZomat project.
 
-[Explore Repository](https://github.com/tech-shakil/zzomat-web)
+[View Repository](https://github.com/tech-shakil/zzomat-web)
 
 ### 🛒 ZZomat Client
 
 A client-side repository associated with the ZZomat project.
 
-[Explore Repository](https://github.com/tech-shakil/zzomat-client)
+[View Repository](https://github.com/tech-shakil/zzomat-client)
 
 ### 🔧 FixNow
 
 A project exploring an on-demand services platform.
 
-[Explore Repository](https://github.com/tech-shakil/fixnow)
+[View Repository](https://github.com/tech-shakil/fixnow)
 
 ### ⚙️ FixNow Backend
 
 A backend repository associated with the FixNow project.
 
-[Explore Repository](https://github.com/tech-shakil/fixnow-backend)
+[View Repository](https://github.com/tech-shakil/fixnow-backend)
 
 ### 📈 MSEC Smart Stock
 
 A PHP-based stock-related project.
 
-[Explore Repository](https://github.com/tech-shakil/msec-smart-stock)
+[View Repository](https://github.com/tech-shakil/msec-smart-stock)
 
 ### ☕ Java DSA
 
-A repository for practicing Java programming and strengthening data structures and algorithms.
+A repository for practicing Java programming and strengthening Data Structures and Algorithms.
 
-[Explore Repository](https://github.com/tech-shakil/JAVA-DSA)
+[View Repository](https://github.com/tech-shakil/JAVA-DSA)
 
 ### 📱 ArogyaNext Patient App
 
 An Android application repository associated with ArogyaNext.
 
-[Explore Repository](https://github.com/tech-shakil/Arogyanext-Patient-App)
+[View Repository](https://github.com/tech-shakil/Arogyanext-Patient-App)
 
-*Some repositories are private. Visitors can access only public repositories and their accessible contents.*
+### 👨‍💻 Developer Portfolio
+
+My GitHub profile repository, showcasing my skills, projects, and achievements.
+
+[View Repository](https://github.com/tech-shakil/tech-shakil)
+
+*Some repositories are private and cannot be accessed by visitors without permission.*
 
 ---
 
@@ -216,6 +223,8 @@ Interested in developing practical technology solutions, exploring entrepreneuri
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code"/>
+  <img src="https://img.shields.io/badge/Antigravity_IDE-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Antigravity IDE"/>
   <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" alt="Maven"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
@@ -225,7 +234,7 @@ Interested in developing practical technology solutions, exploring entrepreneuri
 
 ## 📚 Currently Improving
 
-- ☕ Advanced Java and object-oriented programming.
+- ☕ Advanced Java and Object-Oriented Programming.
 - 🧠 Data Structures and Algorithms.
 - ⚙️ Spring Boot and backend architecture.
 - 🔐 Authentication, authorization, and application security.
@@ -237,35 +246,19 @@ Interested in developing practical technology solutions, exploring entrepreneuri
 
 ---
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=tech-shakil&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
-    alt="GitHub Statistics"
-    height="180"
-  />
-</p>
+## 📊 Most Used Languages
 
 <p align="center">
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=tech-shakil&layout=compact&theme=tokyonight&hide_border=true"
     alt="Most Used Programming Languages"
-    height="180"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com/?user=tech-shakil&theme=tokyonight&hide_border=true"
-    alt="GitHub Contribution Streak"
   />
 </p>
 
 <p align="center">
   <a href="https://github.com/tech-shakil?tab=repositories">
     <img
-      src="https://img.shields.io/badge/Explore_My_Repositories-181717?style=for-the-badge&logo=github&logoColor=white"
+      src="https://img.shields.io/badge/EXPLORE_MY_REPOSITORIES-181717?style=for-the-badge&logo=github&logoColor=white"
       alt="Explore My Repositories"
     />
   </a>
