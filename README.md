@@ -6,10 +6,10 @@
 
 <p align="center">
   <a href="https://arogyanext.in">
-    <img src="https://img.shields.io/badge/🚀_ArogyaNext-Live_Website-0A7B83?style=for-the-badge" alt="ArogyaNext Live Website"/>
+    <img src="https://img.shields.io/badge/🚀_ArogyaNext-Live_Website-0A7B83?style=for-the-badge" alt="ArogyaNext"/>
   </a>
   <a href="https://github.com/tech-shakil">
-    <img src="https://img.shields.io/badge/GitHub-View_Projects-181717?style=for-the-badge&logo=github" alt="GitHub Projects"/>
+    <img src="https://img.shields.io/badge/GitHub-View_Projects-181717?style=for-the-badge&logo=github" alt="GitHub"/>
   </a>
 </p>
 
@@ -29,13 +29,14 @@ Hi! I'm **MD Shakil Akhtar**, a Computer Science and Engineering student passion
 
 I'm currently pursuing my B.E. in Computer Science and Engineering at Mohamed Sathak Engineering College, with an expected graduation year of 2027.
 
-I enjoy transforming ideas into working applications, exploring new technologies, and developing solutions that combine functionality, usability, and practical value.
+I enjoy transforming ideas into working applications, developing backend systems, exploring new technologies, and designing solutions that combine functionality with usability.
 
 - 🎓 **Education:** B.E. Computer Science and Engineering
-- 📅 **Graduation:** 2027
+- 🏫 **College:** Mohamed Sathak Engineering College
+- 📅 **Expected Graduation:** 2027
 - 💻 **Primary Language:** Java
-- ⚙️ **Backend Development:** Spring Boot, REST APIs, Spring Security
-- 🌐 **Live Project:** [ArogyaNext](https://arogyanext.in)
+- ⚙️ **Backend Focus:** Spring Boot, REST APIs, Spring Security
+- 🌐 **Live Product:** [ArogyaNext](https://arogyanext.in)
 - 🏆 **Achievements:** First Prize in UI/UX Design and Second Prize in Dream to Reality
 - 🌱 **Currently Learning:** Data Structures and Algorithms, System Design, Cloud Computing, and Full Stack Development
 - 🎯 **Career Goal:** Become a skilled software engineer and build reliable, secure, and scalable applications.
@@ -46,17 +47,17 @@ I enjoy transforming ideas into working applications, exploring new technologies
 
 # 🏥 ArogyaNext
 
-### AI-Powered Healthcare Technology Platform
+### Healthcare Technology | AI-Assisted Patient Case-Taking | OPD Workflows
 
 <p align="center">
   <a href="https://arogyanext.in">
-    <img src="https://img.shields.io/badge/🌐_Visit_ArogyaNext-arogyanext.in-0A7B83?style=for-the-badge" alt="Visit ArogyaNext"/>
+    <img src="https://img.shields.io/badge/🌐_VISIT_LIVE_WEBSITE-arogyanext.in-0A7B83?style=for-the-badge" alt="Visit ArogyaNext"/>
   </a>
 </p>
 
-**ArogyaNext is a healthcare technology project focused on improving patient case-taking and outpatient department (OPD) workflows through digital solutions and AI-powered interaction.**
+**ArogyaNext is a healthcare technology project focused on improving patient case-taking and outpatient department (OPD) workflows through AI-assisted interaction and digital solutions.**
 
-The project explores how conversational AI, multilingual communication, and digital workflow management can help make healthcare interactions more organized and accessible.
+The project explores how conversational AI, multilingual communication, and digital workflow management can help organize healthcare interactions and improve the patient experience.
 
 ### 🎯 The Problem
 
@@ -66,35 +67,36 @@ Healthcare facilities can face challenges such as:
 - Language barriers between patients and healthcare professionals.
 - Fragmented patient information.
 - Manual outpatient workflow management.
-- Difficulty organizing information before a consultation.
+- Difficulty organizing information before consultations.
 
 ### 💡 Our Approach
 
-ArogyaNext explores the use of AI and digital technologies to streamline pre-consultation workflows and improve the patient experience.
+ArogyaNext explores how AI and digital technologies can help streamline pre-consultation workflows and make patient interactions more accessible.
 
 ### ✨ Key Project Concepts
 
-- 🗣️ **Multilingual Interaction:** Helping patients communicate in their preferred language.
-- 🤖 **AI-Assisted Case-Taking:** Structuring patient responses into a more organized clinical history.
-- 🏥 **OPD Workflow Support:** Exploring digital solutions for outpatient department coordination.
+- 🗣️ **Multilingual Interaction:** Supporting communication in patients' preferred languages.
+- 🤖 **AI-Assisted Case-Taking:** Structuring patient responses into an organized clinical history.
+- 🏥 **OPD Workflow Support:** Exploring digital solutions for outpatient coordination.
 - 📋 **Structured Information:** Organizing relevant patient information for healthcare professionals.
-- 🔊 **Voice-Based Interaction:** Exploring speech technologies for more accessible patient interaction.
-- ⏱️ **Live Queue Management:** Supporting better visibility into patient queues and consultation workflows.
+- 🔊 **Voice-Based Interaction:** Using speech technologies to make patient interaction more accessible.
+- ⏱️ **Queue Management:** Exploring better visibility into patient queues and consultation workflows.
 
 ### 🛠️ Technologies Explored
 
-- Google Gemini — Large Language Model
-- Sarvam AI — Indian-language speech technologies
-- Firebase — Backend and database services
-- Web Technologies — User interface and application development
+- **Google Gemini:** Large Language Model capabilities.
+- **Sarvam AI:** Indian-language speech technologies.
+- **Firebase:** Backend and database services.
+- **Web Technologies:** User interface and application development.
 
-*The technologies and features above describe the project direction and technologies explored. Their availability in the live deployment may vary.*
+*The technologies and features listed above should be understood as the project's development scope. Their availability in the live deployment may vary.*
 
 ### 🌐 Explore ArogyaNext
 
-**Website:** https://arogyanext.in
+- **Live Website:** https://arogyanext.in
+- **GitHub Profile:** https://github.com/tech-shakil
 
-ArogyaNext represents my interest in combining software engineering, AI, and practical problem-solving to address challenges in healthcare.
+ArogyaNext reflects my interest in combining software engineering, AI, and practical problem-solving to address challenges in healthcare.
 
 ---
 
@@ -114,12 +116,12 @@ ArogyaNext represents my interest in combining software engineering, AI, and pra
 
 - Secured Second Prize in the Dream to Reality idea competition.
 - Organized by the Entrepreneurship Development Cell (EDC).
-- Recognized for participation in an innovation-focused competition.
+- Recognized through participation in an innovation-focused competition.
 - Awarded on 15 October 2026.
 
 ### 💡 Innovation & Entrepreneurship
 
-Interested in developing practical technology solutions, exploring entrepreneurial ideas, and turning concepts into usable software products.
+Interested in developing practical technology solutions, exploring entrepreneurial ideas, and transforming concepts into usable software products.
 
 ---
 
@@ -189,12 +191,40 @@ Interested in developing practical technology solutions, exploring entrepreneuri
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=tech-shakil&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Statistics"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tech-shakil&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=tech-shakil&show_icons=true&rank_icon=github&theme=tokyonight&hide_border=true&include_all_commits=true"
+    alt="MD Shakil Akhtar's GitHub Statistics"
+    height="180"
+  />
+
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=tech-shakil&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Most Used Programming Languages"
+    height="180"
+  />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=tech-shakil&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
+  <img
+    src="https://streak-stats.demolab.com?user=tech-shakil&theme=tokyonight&hide_border=true"
+    alt="GitHub Contribution Streak"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=tech-shakil&theme=tokyo-night&hide_border=true"
+    alt="GitHub Contribution Activity Graph"
+  />
+</p>
+
+<p align="center">
+  <a href="https://github.com/tech-shakil?tab=repositories">
+    <img
+      src="https://img.shields.io/badge/View_All_Repositories-181717?style=for-the-badge&logo=github&logoColor=white"
+      alt="View All Repositories"
+    />
+  </a>
 </p>
 
 ---
